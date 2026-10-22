@@ -23,5 +23,8 @@
     "envsafe": "^2.0.3",
     "filesize": "^10.1.1"
   },
-  "keywords": []
+  "keywords": [],
+  "engines": {
+    "node": "22.23.4"
+  }
 }
